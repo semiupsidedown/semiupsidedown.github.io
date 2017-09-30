@@ -5,10 +5,10 @@ title: Svalbard 2015 - Finishing in the field
 
 <div>
 <div class="inline-image">
-<img src="/images/svalbard3/pic1.jpg"/>
+<img src="/images/svalbard3/pic1.JPG"/>
 <span>Me changing the radiation sensors</span>
 </div><div class="inline-image">
-<img src="/images/svalbard3/pic2.jpg"/>
+<img src="/images/svalbard3/pic2.JPG"/>
 <span>Stephan connecting the borehole cables</span>
 </div>
 </div>
@@ -31,7 +31,7 @@ They managed to fix the radiation sensor but the temperature chain was still not
  
 <div>
 <div class="inline-image">
-<img src="/images/svalbard3/pic5.jpg"/>
+<img src="/images/svalbard3/pic5.JPG"/>
 <span>Julia and Niko on the sensor-fixing trip</span>
 </div><div class="inline-image">
 <img src="/images/svalbard3/pic6.jpg"/>

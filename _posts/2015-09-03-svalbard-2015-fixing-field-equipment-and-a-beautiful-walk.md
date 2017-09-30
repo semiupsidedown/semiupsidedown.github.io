@@ -33,10 +33,10 @@ On the site, we have been changing snow sensors, cleaning the precipitation gaug
 
 <div>
 <div class="inline-image">
-<img src="/images/svalbard2/pic5.jpg"/>
+<img src="/images/svalbard2/pic5.JPG"/>
 <span>Niko and some cable tubes.</span>
 </div><div class="inline-image">
-<img src="/images/svalbard2/pic6.jpg"/>
+<img src="/images/svalbard2/pic6.JPG"/>
 <span>Stephan clearing up rubbish.</span>
 </div>
 </div>

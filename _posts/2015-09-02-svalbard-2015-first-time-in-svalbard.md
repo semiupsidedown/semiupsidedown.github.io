@@ -12,7 +12,7 @@ To introduce the rest of the group. Firstly there is Julia. She is very importan
 <img src="/images/svalbard1/pic1.jpg"/>
 <span>View of glaciers from the aeroplane</span>
 </div><div class="inline-image">
-<img src="/images/svalbard1/pic2.jpg"/>
+<img src="/images/svalbard1/pic2.JPG"/>
 <span>Longyearbyen airport</span>
 </div>
 </div>
