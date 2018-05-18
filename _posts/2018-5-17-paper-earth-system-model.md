@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: An Earth System Model made of paper
 ---
 
@@ -12,7 +11,7 @@ So last week, [Tom](http://geography.exeter.ac.uk/staff/index.php?web_id=Tom_W_P
 
 To 'run' the model, each person takes on the role of a different process in the Earth system. For example, one person is photosynthesis, one person represents microbes in the soil, and someone represents the humans, pumping carbon dioxide into the atmosphere from fossil fuels. The pieces of wood represent carbon, and each person moves carbon from one part of the Earth system to another.
 
-Our model is based around the carbon cycle, and of course there are other parts of the Earth system that aren't represented. But what really surprised us was how a game with a simple set of rules could capture so many of the major feedbacks that Earth system models simulate. We really didn't need all of that computer code, just some bits of wood and a bunch of school kids! A gentle reminder that sometimes we can overcomplicate things.
+Our model is based around the [carbon cycle](https://en.wikipedia.org/wiki/Carbon_cycle), and of course there are other parts of the Earth system that aren't represented. But what really surprised us was how a game with a simple set of rules could capture so many of the major feedbacks that Earth system models simulate. We really didn't need all of that computer code, just some bits of wood and a bunch of school kids! A gentle reminder that sometimes we can overcomplicate things.
 
 The session arose from the fact that the A level geographers study carbon cycle feedbacks, which is exactly what our research is about, and their teacher's enthusiasm to introduce her students to some 'real' scientists. We explained a bit about how we ended up being researchers and the students also thought about why they study geography. The key message was 'It's ok not to know what you want to do, because we didn't have a clue'.
 
@@ -20,4 +19,6 @@ Then the real fun started and we got two of our paper-and-wood Earth System Mode
 
 It was great to hear from some of them that taking part in this had helped them understand the Earth system, and everyone seemed to enjoy playing their roles in the carbon cycle. We hope to make a more durable version of the paper Earth System Model that can be used in other local schools, and hopefully get more of our fellow scientists involved.
 
-<img src="https://raw.githubusercontent.com/semiupsidedown/semiupsidedown.github.io/master/images/DSC_0831.JPG" width="480">
+<img src="https://raw.githubusercontent.com/semiupsidedown/semiupsidedown.github.io/master/images/Paper_ESM2.jpg" width="500">
+
+<img src="https://raw.githubusercontent.com/semiupsidedown/semiupsidedown.github.io/master/images/Paper_ESM.jpg" width="340">
