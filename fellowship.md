@@ -8,7 +8,7 @@ In October 2018 I started a five year independent research fellowship funded by 
 
 ### PhD Students
 
-A fully-funded PhD studentship starting September 2019 is available as part of this project. Contact me for more details.
+A PhD studentship is funded as part of the project. This position has been filled by Noah Smith who will start in September 2019. More to follow!
 
 ### Project Partners
 
@@ -29,3 +29,5 @@ A fully-funded PhD studentship starting September 2019 is available as part of t
 Measuring snow depths at Iskoras, Northern Norway, in order to model the site.
 
 <img src="https://raw.githubusercontent.com/semiupsidedown/semiupsidedown.github.io/master/images/41721321_10102492159060673_9017501335095869440_o.jpg" width="300">
+
+I am also doing my first ever lab work, measuring the properties of soil that I took home from Iskoras in September 2018. The next visit is planned for early July 2019, when I will collect the snow sticks and help Hanna with measurements.
