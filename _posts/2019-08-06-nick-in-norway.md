@@ -13,11 +13,9 @@ This was possible thanks to Hanna's inclusive stance on field assistants, which 
   I was allowed to go the first time too. 
   We went to the site known as Iskoras where I am doing a little bit of 
 work for my [project](http://sarahchadburn.com/fellowship), 
-and Nick has written for you the first-ever guest blog post, to tell the experience from his own perspective.</em>
-
-<em>What people sometimes don't realise is that 'permafrost' is basically an exciting word for 'cold and boggy', but I 
+and Nick has written for you the first-ever guest blog post, to tell the experience from his own perspective. What people sometimes don't realise is that 'permafrost' is basically an exciting word for 'cold and boggy', but I 
 figured Nick likes gardening so pottering about in the mud would probably be up his street. And if not, enthusiasm 
-would carry him through.</em>
+would carry him through...</em>
 
 
 A few months ago Sarah asked me whether I fancied going to Northern Norway to help her with some fieldwork there. I have always loved Norway, and had no real idea of what the sort of fieldwork Sarah and her colleagues got up to, so I jumped at the chance.
