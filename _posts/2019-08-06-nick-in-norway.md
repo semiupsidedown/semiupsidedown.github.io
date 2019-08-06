@@ -9,12 +9,13 @@ that's unrealistic. But in an administrative capacity." - Mark Corrigan, Peep Sh
 
 <em>Introducing my wonderful long-time friend Nick, who (while wonderful) 
 is not in any way a permafrost scientist, enthusiastically agreed to join me on fieldwork a few weeks ago.
-This was possible thanks to Hanna's inclusive stance on field assistants, which - to be honest - is also the reason
-I am allowed to go. We went to the site known as Iskoras where I am doing a little bit of 
+This was possible thanks to Hanna's inclusive stance on field assistants, which - to be honest - is the reason
+  I was allowed to go the first time too. 
+  We went to the site known as Iskoras where I am doing a little bit of 
 work for my [project](http://sarahchadburn.com/fellowship), 
-and he has written for you the first-ever guest blog post, to tell the experience from his own perspective.
+and Nick has written for you the first-ever guest blog post, to tell the experience from his own perspective.</em>
 
-What people sometimes don't realise is that 'permafrost' is basically an exciting word for 'cold and boggy', but I 
+<em>What people sometimes don't realise is that 'permafrost' is basically an exciting word for 'cold and boggy', but I 
 figured Nick likes gardening so pottering about in the mud would probably be up his street. And if not, enthusiasm 
 would carry him through. But enough from me, here's Nick.</em>
 
@@ -63,13 +64,14 @@ the disadvantage was that the mosquitoes showed themselves, and were very keen t
 Luckily Sarah had warned me that they could be an issue, and I had borrowed a very fetching head net that 
 did a pretty good job of keeping them off my precious face.
 
+<div>
 <div class="inline-image" style="width: 50%">
 <img src="/images/DSC_0100.JPG"/>
 <span><em>Nick recording sample numbers.</em></span>
-</div>
-<div class="inline-image" style="width: 100%">
+</div><div class="inline-image" style="width: 50%">
 <img src="/images/P1020278.JPG"/>
 <span><em>A fetching mosquito head-net.</em></span>
+</div>
 </div>
 
 That day Sarah and I did a lot of gas flux measurements, which involved taking gas samples, temperatures, water depths and permafrost depth measurements from many different areas of the site at regular intervals. Sarah did all the measurements, I was again on tube labelling and recording duties. These measurements are used by scientists to better understand how greenhouse gases are produced from different parts of the palsa mire, to see at a more micro level what is going on.
