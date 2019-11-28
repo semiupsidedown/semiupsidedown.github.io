@@ -37,7 +37,7 @@ appear to have been put off science for ever. If I ask them nicely you might see
 <span><em>Becky enjoying her first ever fieldwork: Iskoras, Northern Norway. </em></span>
 </div><div class="inline-image" style="width: 50%">
 <img src="/images/bad_selfie.jpg"/>
-<span><em>Bad selfie attempts by fieldwork team (L-R: me, Becky, [Casper](https://caspertai.wordpress.com) ). 
+<span><em>Bad selfie attempts by fieldwork team (L-R: me, Becky, <a href="https://caspertai.wordpress.com">Casper</a>). 
 The orange hats are to prevent us getting shot.</em></span>
 </div>
 </div>
