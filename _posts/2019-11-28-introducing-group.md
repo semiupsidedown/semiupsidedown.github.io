@@ -31,7 +31,7 @@ half an hour to look around the city, but had to abandon an attempted scooter to
 stuck in an airport for the best part of a day. Fortunately, they are both highly cheerful and motivated, and do not yet 
 appear to have been put off science for ever. If I ask them nicely you might see guest blog posts from them at some point!
 
-<div>
+<div style="text-align: center">
 <div class="inline-image" style="width: 50%">
 <img src="/images/becky_fieldwork.png"/>
 <span><em>Becky enjoying her first ever fieldwork: Iskoras, Northern Norway. </em></span>
@@ -40,10 +40,9 @@ appear to have been put off science for ever. If I ask them nicely you might see
 <span><em>Bad selfie attempts by fieldwork team (L-R: me, Becky, <a href="https://caspertai.wordpress.com">Casper</a>). 
 The orange hats are to prevent us getting shot.</em></span>
 </div>
-</div>
-
-<div class="inline-image" style="float: center">
+<div class="inline-image">
 <img src="/images/research_group_photo.png"/>
 <span><em>Our official ‘research group photo’ performing some highly scientific analysis 
 of a bit of soil on Dartmoor. (L-R: Noah, me, Becky)</em></span>
+</div>
 </div>
