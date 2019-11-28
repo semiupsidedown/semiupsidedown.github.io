@@ -42,7 +42,7 @@ The orange hats are to prevent us getting shot.</em></span>
 </div>
 </div>
 
-<div class="inline-image" style="width: 50%">
+<div class="inline-image" style="float: center">
 <img src="/images/research_group_photo.png"/>
 <span><em>Our official ‘research group photo’ performing some highly scientific analysis 
 of a bit of soil on Dartmoor. (L-R: Noah, me, Becky)</em></span>
