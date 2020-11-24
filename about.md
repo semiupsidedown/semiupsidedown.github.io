@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-I am a research scientist based in at the University of Exeter, UK. I also spend part of my time at the Met Office, and have spent some time working in Bergen, Norway.
+I am a research scientist based in at the University of Exeter, UK. Like many other people at the moment, I currently work from home.
 
-I study Arctic permafrost and the carbon cycle using computer modelling: I develop models that replicate measurements from the Arctic, and then run them to simulate the future. I also analyse large numbers of measurements to detect patterns. My research helps to understand the links between the land surface and the global climate.
+I study Arctic permafrost and the carbon cycle using computer modelling: I develop models that replicate measurements from field studies and lab experiments, and run them to simulate the future. I also analyse large numbers of measurements to detect patterns. My research helps to understand the links between the land surface and the global climate.
 
 [My publications on Google Scholar](https://scholar.google.co.uk/citations?user=AoVHaSIAAAAJ&hl=en)
 
@@ -15,6 +15,8 @@ I study Arctic permafrost and the carbon cycle using computer modelling: I devel
 NERC Independent Research Fellowship, Constraining Arctic Carbon-Cycle Feedbacks. See my [project webpage](http://sarahchadburn.com/fellowship)!
 
 ECCLES: Emergent Constraints on Earth System Sensitivities. I am co-supervisor for Becky Varney who is studying Emergent Constraints on the Terrestrial Carbon-Cycle, as part of a project led by [Prof. Peter Cox](http://emps.exeter.ac.uk/mathematics/staff/pmc205).
+
+[T-MOSAiC permafrost thaw](https://www.t-mosaic.com/permafrost-thaw.html): I am co-lead of a group developing standardised protocols for collecting data on permafrost, to help with modelling. Led by [Prof. Julia Boike](https://www.arcus.org/researchers/36399/display).
 
 ### Past Projects
 
